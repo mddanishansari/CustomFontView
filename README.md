@@ -1,7 +1,7 @@
 # CustomFontView
 ##  Easiest way to include custom fonts in your TextView
 
-![CustomFontView Demo](https://github.com/mddanishansari/CustomFontView/blob/master/screenshots.png)
+![CustomFontView Demo](screenshots.png)
 
 ##  How to 
 ### 1. Include dependency in our build.gradle file
