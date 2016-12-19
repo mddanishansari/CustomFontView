@@ -5,12 +5,12 @@
 
 ###  How to 
 
-### 1. Include dependency in your build.gradle file
+ 1. Include dependency in your build.gradle file
 ```
 compile 'com.md:customfontview:1.0'
 ```
 
-### 2. Implement `CustomFontView` in your xml file and supply name of your font in `fontName` attribute
+ 2. Implement `CustomFontView` in your xml file and supply name of your font in `fontName` attribute
 
 ```
    <com.md.cfv.CustomFontView
@@ -20,6 +20,6 @@ compile 'com.md:customfontview:1.0'
             app:fontName="Lobster.ttf" />
 ```
 
-### 3. Put that font file in `assets` folder. That's it.
+ 3. Put that font file in `assets` folder. That's it.
 
 ### Quite easy. Isn't it ?
