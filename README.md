@@ -3,6 +3,8 @@
 
 ![CustomFontView Demo](screenshots.png)
 
+## \*\*DUE TO SOME REASON YOU CANT USE THIS LIBRARY TEMPORARY. WILL BE AVAILABLE VERY SOON\*\*
+
 ## How to 
 
 ## 1. Include dependency in your build.gradle file
