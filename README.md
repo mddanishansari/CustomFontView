@@ -3,14 +3,13 @@
 
 ![CustomFontView Demo](screenshots.png)
 
-## \*\*DUE TO SOME REASON YOU CANT USE THIS LIBRARY TEMPORARY. WILL BE AVAILABLE VERY SOON\*\*
 
 ## How to 
 
 ## 1. Include dependency in your build.gradle file
 
 ```
-compile 'com.md:customfontview:1.0'
+compile 'com.md.cfv:customfontview:0.0.1'
 ```
 
 ## 2. Implement `CustomFontView` in your xml file and supply name of your font in `fontName` attribute
