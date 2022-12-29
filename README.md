@@ -1,4 +1,5 @@
 # CustomFontView
+# THIS LIBRARY IS NOT MAINTAINED ANYMORE
 ## Easiest way to include custom fonts in your TextView
 
 ![CustomFontView Demo](screenshots.png)
